@@ -1,0 +1,70 @@
+/* general */
+
+*{
+    font-family: Tahoma, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.80)
+}
+
+h1, h2{
+    color: darkturquoise;
+}
+
+li{
+    color: aqua;
+}
+
+a, p, .list-ignore{
+    color: aliceblue;
+}
+
+
+/* jujutsu kaisen */
+
+#jujutsu{
+    color: #cdcd47;
+}
+
+#kaisen, #shibuya{
+    color: mediumpurple;
+}
+
+.sukuna{
+    color: orangered;
+}
+
+#yuji{
+    color: pink;
+}
+
+.blue{
+    color: deepskyblue;
+}
+
+
+/* bocchi the rock */
+
+.bocchi{
+    color: hotpink;
+}
+
+#nijika{
+    color: yellow;
+}
+
+
+/* cyberpunk edgerunners */
+
+#h1-ignore{
+    color: aliceblue;
+}
+
+.cyberpunk{
+    color: yellow;
+}
+
+.edgerunners{
+    color: aqua;
+}
